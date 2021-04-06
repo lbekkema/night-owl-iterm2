@@ -6,7 +6,7 @@ A port of Sarah Drasner’s [Night Owl VS Code theme](https://github.com/sdras/n
 
 ## Installation
 
-1. [Download Night Owl for iTerm2](https://github.com/lbekkema/iterm2-night-owl/archive/main.zip).
+1. [Download Night Owl for iTerm2](https://github.com/lbekkema/night-owl-iterm2/archive/main.zip).
 2. Install [iTerm2](https://www.iterm2.com/).
 3. Launch iTerm2.
 4. Press <kbd>Cmd</kbd>+<kbd>,</kbd> to open preferences.
